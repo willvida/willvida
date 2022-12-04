@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willvida
-- 👀 I’m interested in programming and product development with a special intrest for blockchain based Web3 products.
+- 👀 I’m interested in programming and product development with focus on blockchain based Web3 products.
 - 🌱 I’m currently learning JavaScript and Solidity.
 - 💞️ I’m looking to collaborate on projects matching my interests.
 - 📫 How to reach me ...
